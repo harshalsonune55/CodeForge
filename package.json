@@ -1,0 +1,18 @@
+{
+  "name": "codeforge-terminal-agent",
+  "version": "1.0.0",
+  "description": "Terminal-only coding agent powered by Groq or Ollama.",
+  "main": "bot.js",
+  "type": "commonjs",
+  "bin": {
+    "codeforge": "./bot.js"
+  },
+  "scripts": {
+    "start": "node bot.js",
+    "setup": "node setup.js"
+  },
+  "license": "MIT",
+  "engines": {
+    "node": ">=18"
+  }
+}
