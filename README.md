@@ -4,9 +4,9 @@ CodeForge is a terminal-native coding agent that can inspect a project folder, e
 
 It supports Groq by default and can also use an Ollama server for local or self-hosted models.
 
-![CodeForge terminal session](assets/codeforge-session.svg)
+![CodeForge terminal session](assets/image.png)
 
-![CodeForge logo](assets/codeforge-logo.svg)
+![CodeForge logo](assets/codeforge-logo.png)
 
 ## Highlights
 
@@ -318,8 +318,8 @@ npm link
 Place the screenshots in:
 
 ```text
-assets/codeforge-session.svg
-assets/codeforge-logo.svg
+assets/image.png
+assets/codeforge-logo.png
 ```
 
 The README already references those paths.
